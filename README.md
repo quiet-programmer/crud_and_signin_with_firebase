@@ -1,6 +1,9 @@
-# firebase_crud_app
+## Crud and Google Signin Examples
 
 A new Flutter project.
+
+## Demo View
+<img src='https://github.com/quiet-programmer/crud_and_signin_with_firebase/blob/master/ss/ezgif.com-video-to-gif.gif' width='330' height='700'>
 
 ## Getting Started
 
