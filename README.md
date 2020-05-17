@@ -1,6 +1,6 @@
 ## Crud and Google Signin Examples
 
-A new Flutter project.
+Flutter Application that works with the Firebase plugin, to make it possible to sign up or in with your Google Account, or input your email and password yourself.
 
 ## Demo View
 <img src='https://github.com/quiet-programmer/crud_and_signin_with_firebase/blob/master/ss/ezgif.com-video-to-gif.gif' width='330' height='700'>
