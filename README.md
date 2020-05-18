@@ -4,6 +4,8 @@ Flutter Application that works with the Firebase plugin, to make it possible to 
 
 ## Plugin's
 1. <a href="https://pub.dev/packages/firebase_auth">FireBase Auth</a> <br>
+2. <a href="https://pub.dev/packages/google_sign_in">Google Signin</a> <br>
+3. <a href="https://pub.dev/packages/nice_button">Nice Button</a>
 
 ## Demo View
 <img src='https://github.com/quiet-programmer/crud_and_signin_with_firebase/blob/master/ss/ezgif.com-video-to-gif.gif' width='330' height='700'>
