@@ -1,6 +1,6 @@
 ## Crud and Google Signin Examples
 
-Flutter Application that works with the Firebase plugin, to make it possible to sign up or in with your Google Account, or input your email and password yourself.
+Flutter Application that works with the Firebase plugin, to make it possible to sign up or in with your Google Account, or input your email and password yourself. (new updates will be added soon)
 
 ## Plugin's
 1. <a href="https://pub.dev/packages/firebase_auth">FireBase Auth</a> <br>
